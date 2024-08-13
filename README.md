@@ -10,8 +10,8 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 
 ## 🌟 Proyectos Destacados
 
-- **Mixmeet**: App de creacion y seguimiento de eventos en tiempo real!. [En desarrollo]
-- **[Nombre del Proyecto 2]**: Descripción breve. [Enlace al proyecto]
+- **Mixmeet**: App de creacion y seguimiento de eventos en tiempo real. [En desarrollo]
+- **[Consultar el clima]**: Permite al usuario consultar el clima cualquier parte del mundo. https://consultareltiempo.netlify.app
 
 ## 💼 Habilidades
 
@@ -22,7 +22,7 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 ## 📫 ¿Cómo contactarme?
 
 - **Email**: stevenandresjaime@gmail.com
-- **LinkedIn**: [https://www.linkedin.com/in/stiven-andres-jaime-garcia-427a9228a/
+- **LinkedIn**: https://www.linkedin.com/in/stiven-andres-jaime-garcia-427a9228a/
 - **Discord**: .malisk
 
 
