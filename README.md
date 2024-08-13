@@ -10,8 +10,8 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 
 ## 🌟 Proyectos Destacados
 
-- **Mixmeet**: App de creacion y seguimiento de eventos en tiempo real. [En desarrollo]
-- **[Consultar el clima]**: Permite al usuario consultar el clima cualquier parte del mundo. https://consultareltiempo.netlify.app
+- **Mixmeet**: App de creacion y seguimiento de eventos en tiempo real. En desarrollo
+- **Consultar el clima**: Permite al usuario consultar el clima cualquier parte del mundo. https://github.com/Stivenjs/Api-clima.git
 
 ## 💼 Habilidades
 
