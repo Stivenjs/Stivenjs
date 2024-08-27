@@ -140,12 +140,7 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
       </a>
       <br>Postman
     </td>
-       <td align="center" width="96">
-      <a href="#markdown">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/markdown-3521604-2945092.png" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>Markdown
-    </td>
+     
   </tr>
 </table>
 
