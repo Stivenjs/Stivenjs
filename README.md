@@ -22,11 +22,15 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 - **Frameworks/Librerías**: React, Redux, Node.js
 - **Herramientas**: Git, Webpack, Babel
 
-## 📫 ¿Cómo contactarme?
+## 📫 📫 How to reach me **devboyarif@gmail.com**
 
-- **Email**: stevenandresjaime@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/stiven-andres-jaime-garcia-427a9228a/
-- **Discord**: .malisk
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/devboyarif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://twitter.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
+<a href="https://fb.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
+  <a href="https://join.skype.com/invite/YVywcVEB1lql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="devboyarif" height="30" width="40" /></a>
 
 
 
