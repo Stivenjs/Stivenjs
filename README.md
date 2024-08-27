@@ -68,7 +68,7 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
     </td>
      <td align="center" width="96">
       <a href="#shadcn">
-        <img src="https://www.sortabase.com/_next/image?url=https%3A%2F%2Ftrayjaimagefiles.s3.us-east-2.amazonaws.com%2Fpost-imagerc-upload-1683074259389-6Screenshot%202023-05-02%20at%208.50.47%20PM.png&w=640&q=75" width="48" height="48" alt="Nuxtjs" />
+        <img src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000" width="48" height="48" alt="Nuxtjs" />
       </a>
       <br>Shadcn
     </td>
