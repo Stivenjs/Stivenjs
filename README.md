@@ -29,8 +29,8 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 
 
 <a href="https://www.linkedin.com/in/stiven-andres-jaime-garcia-427a9228a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
-<a href="https://fb.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
-  <a href="https://join.skype.com/invite/YVywcVEB1lql" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://www.facebook.com/steven.sj.7777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
+  
 
 
 
