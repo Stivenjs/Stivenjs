@@ -85,13 +85,13 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
       <a href="express">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Laravel" />
       </a>
-      <br>Express
+      <br>ExpressJS
     </td>
       <td align="center" width="96">
-      <a href="#express">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Laravel" />
+      <a href="#firebase">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" width="48" height="48" alt="Laravel" />
       </a>
-      <br>MySQL
+      <br>Firebase
     </td>
      <td align="center" width="96">
       <a href="#ts">
