@@ -125,7 +125,7 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
       <a href="#Netlify">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Netlify-Dark.svg" width="48" height="48" alt="Digital Ocean" />
       </a>
-      <br>Digital Ocean
+      <br>Netlify
     </td>
       <td align="center" width="96">
       <a href="#git" >
@@ -145,12 +145,7 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
       </a>
       <br>Postman
     </td>
-      <td align="center" width="96">
-      <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>VuePress
-    </td>
+     
   </tr>
 </table>
 
