@@ -22,9 +22,9 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 - **Frameworks/Librerías**: React, Redux, Node.js
 - **Herramientas**: Git, Webpack, Babel
 
-## 📫 📫 How to reach me **devboyarif@gmail.com**
+## 📫 Como contactarme **stevenandresjaime@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://dev.to/devboyarif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devboyarif" height="30" width="40" /></a>
 <a href="https://twitter.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devboyarif" height="30" width="40" /></a>
