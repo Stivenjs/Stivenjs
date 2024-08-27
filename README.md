@@ -32,7 +32,7 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 
 ¡Gracias por visitar mi perfil!
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 
 <table align="center">
   <tr>
@@ -50,9 +50,9 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind" />
       </a>
-      <br>Bootstrap
+      <br>Tailwind
     </td>
      <td align="center" width="96">
       <a href="#js">
