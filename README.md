@@ -67,16 +67,16 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
       <br>React
     </td>
      <td align="center" width="96">
-      <a href="#React">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg " width="48" height="48" alt="Nuxtjs" />
+      <a href="#shadcn">
+        <img src="https://www.sortabase.com/_next/image?url=https%3A%2F%2Ftrayjaimagefiles.s3.us-east-2.amazonaws.com%2Fpost-imagerc-upload-1683074259389-6Screenshot%202023-05-02%20at%208.50.47%20PM.png&w=640&q=75" width="48" height="48" alt="Nuxtjs" />
       </a>
-      <br>Nuxt JS
+      <br>Shadcn
     </td>
   </tr>
 
   <tr>
      <td align="center" width="96">
-      <a href="#nuxtjs" >
+      <a href="#shadcn" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
