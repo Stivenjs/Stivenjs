@@ -3,8 +3,6 @@
 <h3 align="center">
 Soy un desarrollador apasionado especializado en React. Me encanta crear soluciones innovadoras y eficientes que resuelvan problemas reales.</h3>
 
-
-
 ## 🚀 ¿Qué hago?
 
 - Desarrollo aplicaciones web utilizando React, TypeScript, TailwindCSS, Firebase, Expressjs, Nextjs, Nodejs.
@@ -13,24 +11,22 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 
 ## 🌟 Proyectos Destacados
 
-- **Mixmeet**: App de creación y seguimiento de eventos en tiempo real. *(En desarrollo)*
-- **Consultar el clima**: Permite al usuario consultar el clima en cualquier parte del mundo. [Repositorio](https://github.com/Stivenjs/Api-clima.git)
+- **Mixmeet**: App de creacion y seguimiento de eventos en tiempo real. En desarrollo
+- **Consultar el clima**: Permite al usuario consultar el clima cualquier parte del mundo. https://github.com/Stivenjs/Api-clima.git
 
 ## 💼 Habilidades
 
-- **Lenguajes:** JavaScript, TypeScript, HTML, CSS, TailwindCSS, Expressjs, Nextjs, Shadcn
-- **Frameworks/Librerías:** React, Redux, Node.js
-- **Herramientas:** Git, Webpack, Babel
+- **Lenguajes**: JavaScript, TypeScript, HTML, CSS, TailwindCSS, Expressjs, Nextjs, Shadcn
+- **Frameworks/Librerías**: React, Redux, Node.js
+- **Herramientas**: Git, Webpack, Babel
 
-## 📫 Cómo contactarme:
-- **Email:** stevenandresjaime@gmail.com
-- **LinkedIn:** [stiven-andres-jaime-garcia](https://www.linkedin.com/in/stiven-andres-jaime-garcia-427a9228a/)
-- **Facebook:** [steven.sj.7777](https://www.facebook.com/steven.sj.7777/)
+## 📫 Como contactarme:  **stevenandresjaime@gmail.com**
 
-
-
-
-
+<h3 align="left">Contactame:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/stiven-andres-jaime-garcia-427a9228a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
+<a href="https://www.facebook.com/steven.sj.7777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
+  
 <h3 align="left">Lenguajes y herramientas:</h3>
 
 <table align="center">
@@ -143,18 +139,20 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Postman
-        </tr>
+    </td>
+       <td align="center" width="96">
+      <a href="#markdown">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/markdown-3521604-2945092.png" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>Markdown
+    </td>
+  </tr>
 </table>
 
-## 📊 Mis Analíticas de GitHub
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Stivenjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Stivenjs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stivenjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stivenjs&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stivenjs" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stivenjs&theme=dark&hide_border=false" alt="Stivenjs" width="45%"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stivenjs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="60%"/>
-</div>
-
-----
-
+---
+[![](https://visitcount.itsvg.in/api?id=Stivenjs&icon=0&color=0)](https://visitcount.itsvg.in)
