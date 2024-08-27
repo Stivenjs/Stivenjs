@@ -151,8 +151,8 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
         </tr>
 </table>
 
-
-   ✌️ Mis Analiticas de GitHub 
+<h3 align="left"> ✌️ Mis Analiticas de GitHub </h3>
+  
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=Stivenjs&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stivenjs" /></p>
 
 
