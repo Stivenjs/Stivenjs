@@ -88,8 +88,8 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
       <br>Express
     </td>
       <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      <a href="#express">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>MySQL
     </td>
