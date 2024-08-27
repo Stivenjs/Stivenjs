@@ -155,8 +155,8 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
   <summary> ✌️ Mis Analiticas de GitHub </summary>
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=Stivenjs&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stivenjs" /></p>
 
-<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devboyarif&theme=radical" alt="devboyarif" /></p>
-<p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stivenjs&theme=dark&hide_border=false" alt="devboyarif" /></p>
+
+<p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stivenjs&theme=dark&hide_border=false"  /></p>
 <p><img width="100%" height="350px" alt="Arif's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stivenjs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p>
 </details>
 
