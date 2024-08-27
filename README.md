@@ -13,14 +13,14 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 
 ## 🌟 Proyectos Destacados
 
-- **Mixmeet**: App de creacion y seguimiento de eventos en tiempo real. En desarrollo
-- **Consultar el clima**: Permite al usuario consultar el clima cualquier parte del mundo. https://github.com/Stivenjs/Api-clima.git
+- **Mixmeet**: App de creación y seguimiento de eventos en tiempo real. *(En desarrollo)*
+- **Consultar el clima**: Permite al usuario consultar el clima en cualquier parte del mundo. [Repositorio](https://github.com/Stivenjs/Api-clima.git)
 
 ## 💼 Habilidades
 
-- **Lenguajes**: JavaScript, TypeScript, HTML, CSS, TailwindCSS, Expressjs, Nextjs, Shadcn
-- **Frameworks/Librerías**: React, Redux, Node.js
-- **Herramientas**: Git, Webpack, Babel
+- **Lenguajes:** JavaScript, TypeScript, HTML, CSS, TailwindCSS, Expressjs, Nextjs, Shadcn
+- **Frameworks/Librerías:** React, Redux, Node.js
+- **Herramientas:** Git, Webpack, Babel
 
 ## 📫 Cómo contactarme:
 - **Email:** stevenandresjaime@gmail.com
