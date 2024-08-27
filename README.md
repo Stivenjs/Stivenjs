@@ -107,11 +107,11 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
         <br>NextJS
     </td>
     <td align="center" width="96">
-        <a href="#alpinejs">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
+        <a href="#vercel">
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" width="48"
                 height="48" alt="alpinejs" />
         </a>
-        <br>Alpine JS
+        <br>Vercel
     </td>
   </tr>
    <tr>
