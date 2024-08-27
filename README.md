@@ -49,7 +49,7 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
       <br>CSS3
     </td>
      <td align="center" width="96">
-      <a href="#bootstrap">
+      <a href="#tailwind">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
@@ -61,14 +61,14 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
       <br>Javascript
     </td>
      <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+      <a href="#React">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="48" height="48" alt="Vuejs" />
       </a>
-      <br>Vue JS
+      <br>React
     </td>
      <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
+      <a href="#React">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg " width="48" height="48" alt="Nuxtjs" />
       </a>
       <br>Nuxt JS
     </td>
