@@ -100,11 +100,11 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
       <br>TypeScript
     </td>
      <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
+        <a href="#nextjs">
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" width="48" height="48"
+                alt="nextjs" />
         </a>
-        <br>Livewire
+        <br>NextJS
     </td>
     <td align="center" width="96">
         <a href="#alpinejs">
