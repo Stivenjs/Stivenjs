@@ -22,7 +22,7 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 - **Frameworks/Librerías**: React, Redux, Node.js
 - **Herramientas**: Git, Webpack, Babel
 
-## 📫 Como contactarme **stevenandresjaime@gmail.com**
+## 📫 Como contactarme:  **stevenandresjaime@gmail.com**
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
