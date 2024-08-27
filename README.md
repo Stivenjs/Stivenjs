@@ -1,9 +1,9 @@
 # <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">I am a Full Stack Web Developer from Dhaka, Bangladesh. I'm working on Laravel, vue.js, nuxt.js & REST API.</h3>
+<h1 align="center">Hola 👋, soy Steven Jaime</h1>
+<h3 align="center">
+Soy un desarrollador apasionado especializado en React. Me encanta crear soluciones innovadoras y eficientes que resuelvan problemas reales.</h3>
 
 
-Soy un desarrollador apasionado especializado en React. Me encanta crear soluciones innovadoras y eficientes que resuelvan problemas reales.
 
 ## 🚀 ¿Qué hago?
 
