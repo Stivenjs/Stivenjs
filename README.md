@@ -50,13 +50,13 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
      <td align="center" width="96">
       <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.pn" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
