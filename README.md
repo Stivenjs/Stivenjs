@@ -76,16 +76,16 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 
   <tr>
      <td align="center" width="96">
-      <a href="#shadcn" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      <a href="#nodejs" >
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" width="48" height="48" alt="PHP" />
       </a>
-      <br>PHP
+      <br>NodeJS
     </td>
       <td align="center" width="96">
-      <a href="#laravel">
+      <a href="#nodejs">
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
       </a>
-      <br>Laravel
+      <br>Express
     </td>
       <td align="center" width="96">
       <a href="#laravel">
