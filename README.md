@@ -34,7 +34,7 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 
 
 
-¡Gracias por visitar mi perfil!
+
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 
