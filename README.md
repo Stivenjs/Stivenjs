@@ -18,7 +18,7 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 
 - **Lenguajes**: JavaScript, TypeScript, HTML, CSS, TailwindCSS, Expressjs, Nextjs, Shadcn
 - **Frameworks/Librerías**: React, Redux, Node.js
-- **Herramientas**: Git, Webpack, Babel
+- **Herramientas**: Git, Webpack
 
 ## 📫 Como contactarme:  **stevenandresjaime@gmail.com**
 
