@@ -5,7 +5,7 @@ Soy un desarrollador apasionado especializado en React. Me encanta crear solucio
 
 ## 🚀 ¿Qué hago?
 
-- Desarrollo aplicaciones web utilizando React, TypeScript, TailwindCSS, Firebase, Expressjs, Nextjs, Nodejs
+- Desarrollo aplicaciones web utilizando React, TypeScript, TailwindCSS, Firebase, Expressjs, Nextjs, Nodejs.
 - Participo en proyectos open-source y colaboro con la comunidad.
 - Siempre estoy aprendiendo y explorando nuevas tecnologías y herramientas.
 
