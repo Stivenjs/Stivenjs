@@ -1,7 +1,7 @@
 # <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hola 👋, soy Steven Jaime</h1>
 <h3 align="center">
-Soy un desarrollador apasionado especializado en React. Me encanta crear soluciones innovadoras y eficientes que resuelvan problemas reales..</h3>
+Soy un desarrollador apasionado especializado en React. Me encanta crear soluciones innovadoras y eficientes que resuelvan problemas reales.</h3>
 
 ## 🚀 ¿Qué hago?
 
